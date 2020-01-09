@@ -1,0 +1,1 @@
+Project is about,using python basic commands on data of school's result of various student.
